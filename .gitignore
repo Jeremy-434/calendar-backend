@@ -1,0 +1,12 @@
+# Dependencias
+/node_modules
+
+# Archivos de registro
+*.log
+
+# Directorio de configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de entorno
+.env
